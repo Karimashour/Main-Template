@@ -1,8 +1,16 @@
-# Frontend Bootcamp Website - Bootstrap 5
+# link preview :
 
-> Simple one page website for a fake bootcamp
+https://karimashour.github.io/Vast-Template/
 
-This is part of a [YouTube tutorial](https://www.youtube.com/watch?v=4sosXZsdy-s&t=186s)
+<img src="image.png"/>
 
-### Website Demo
-https://www.frontendbootcampdemo.com/
+# tools :
+- html
+- css
+- javascript
+- media query
+- ionicons library
+
+
+# features
+- fully responsive landing page 
