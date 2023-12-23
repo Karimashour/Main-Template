@@ -1,16 +1,15 @@
 # link preview :
 
-https://karimashour.github.io/Vast-Template/
+https://main-template-chi.vercel.app/
 
 <img src="image.png"/>
 
 # tools :
 - html
 - css
-- javascript
-- media query
-- ionicons library
+- bootstrap v5
+- bootstrap-icons
 
 
 # features
-- fully responsive landing page 
+- fully responsive website
