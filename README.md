@@ -1,6 +1,5 @@
 # link preview :
-
-https://main-template-chi.vercel.app/
+https://main-template-ecru.vercel.app/
 
 <img src="image.png"/>
 
