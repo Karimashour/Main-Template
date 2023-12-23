@@ -15,3 +15,16 @@ body::before {
     width: 50%;
   }
 }
+@media (max-width: 400px) {
+  .news-input {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .input-group>.form-control, .input-group>.form-select {
+    width: 100%;
+}
+.input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+  border-radius: 0;
+  margin: auto;}
+}
